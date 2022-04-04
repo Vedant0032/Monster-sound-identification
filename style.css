@@ -1,0 +1,44 @@
+body{
+ 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.header_div{
+background-color:darksalmon;
+color:black;
+
+}
+
+.header_div p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    font-size:15px;
+    font-weight:bold;
+    letter-spacing: 1px;
+}
+
+.main_div button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing: 3px;
+    background-color:orange;
+    color:black;
+   
+}
+
+.copy-right-footer{
+position:fixed;
+color:black;
+background-color:darksalmon;
+bottom: 0;
+width:100%;
+font-size:18px;
+line-height:3;
+text-align: center;
+text-shadow:5px 5px 5px red;
+letter-spacing:1px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
